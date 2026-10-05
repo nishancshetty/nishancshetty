@@ -18,18 +18,6 @@
 
 ---
 
-## 💻 About Me
-
-```bash
-> whoami
-
-Name        :: Nishan C Shetty
-Role        :: Web Developer
-Framework   :: Next.js
-Interest    :: Building modern, responsive web applications
-Location    :: India
-```
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -66,10 +54,4 @@ Location    :: India
 
 ---
 
-```javascript
-while (true) {
-  build();
-  learn();
-  improve();
-}
-```
+
