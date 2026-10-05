@@ -1,5 +1,5 @@
 <div align="center">
-# Hi 👋 I'm Nishan C Shetty
+Hi 👋 I'm Nishan C Shetty
 
 <div align="center">
 
