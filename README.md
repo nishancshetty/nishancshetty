@@ -1,67 +1,75 @@
-<div align="center">
-
 # Hi 👋 I'm Nishan C Shetty
 
-### Web Developer • Computer Science Student
+<div align="center">
 
-I'm passionate about building modern web applications with **Next.js** and creating projects that combine clean design with practical functionality.
+# 🚀 Web Developer • Computer Science Student
+
+### Building modern web experiences with **Next.js**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Next.js+Developer;Creative+UI+Builder;Building+Modern+Web+Experiences;Always+Learning+Something+New" />
+
+<p>
+<a href="https://github.com/nishancshetty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/nishan-shetty-1526b8387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:nishanchshetty2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Web Developer
-- ⚡ Enjoy building with **Next.js**
-- 🤖 Interested in AI-powered web applications
-- 📍 India
+```bash
+> whoami
 
----
+Name        :: Nishan C Shetty
+Role        :: Web Developer
+Framework   :: Next.js
+Interest    :: Building modern, responsive web applications
+Location    :: India
+```
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,c,cpp"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css,nodejs,python,mongodb,git,github,figma,vscode,postman" />
 </p>
 
-### Frameworks & Libraries
+## 🌟 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+- ⚽ Premier League Analytics Platform
+- 📄 Smart PDF Workspace
+- 🧠 Engineering Mirror
+- 📚 Learning Dashboard
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nishancshetty&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishancshetty&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishancshetty&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishancshetty&theme=tokyo-night"/>
+</p>
+
+## 📫 Contact
+
+- GitHub: https://github.com/nishancshetty
+- LinkedIn: https://www.linkedin.com/in/nishan-shetty-1526b8387/
+- Email: nishanchshetty2006@gmail.com
+
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/nishancshetty" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/nishan-shetty-1526b8387/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:nishanchshetty2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nishan-shetty-1526b8387/">LinkedIn</a> •
-<a href="mailto:nishanchshetty2006@gmail.com">Email</a>
-
-</p>
+```javascript
+while (true) {
+  build();
+  learn();
+  improve();
+}
+```
