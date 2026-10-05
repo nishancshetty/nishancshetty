@@ -28,9 +28,8 @@ Hi 👋 I'm Nishan C Shetty
 ## 🌟 Featured Projects
 
 - ⚽ Premier League Analytics Platform
-- 📄 Smart PDF Workspace
-- 🧠 Engineering Mirror
-- 📚 Learning Dashboard
+- 📄 MyPortfolio
+- 🧠 Smart Parking Slot Management System
 
 ## 📊 GitHub Stats
 
